@@ -21,3 +21,5 @@ Serve this directory with a static server, for example `python3 -m http.server 8
 ## Validation
 
 Browser-tested plan/add-on changes, included Malaysia benefit with no surcharge, additional driver quantity, monthly/full-term totals, sample application progression, payment acknowledgement, simulated confirmation, SUV filtering and mobile continuation. Mobile 390px checks showed no horizontal overflow.
+
+Optional child seat and Touch ’n Go card requests carry through the summary, approval and payment screens. Prices, availability, seat suitability and any TNG balance are to be confirmed. Selecting either makes the final payment amount quotation-dependent; no unconfirmed fee is assumed.
