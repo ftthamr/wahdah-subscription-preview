@@ -9,3 +9,5 @@
 .addon-icon svg{display:block;width:100%;height:32px}
 
 .addons-heading{display:flex;align-items:flex-start;gap:12px;margin-top:28px}.addons-heading h2{font-size:20px;margin:0}.addons-heading p{font-size:13px;color:#647aa2;margin:1px 0 16px}.addons-plus{font-size:27px;color:var(--brand);line-height:1.2}.lro-benefit{display:flex;align-items:center;gap:13px;padding:15px 13px;border:1px solid #bdccff;border-radius:8px;background:#f4f7ff}.lro-benefit svg{width:26px;height:32px;flex-shrink:0;color:var(--brand)}.lro-benefit strong{font-size:13px}.lro-benefit p{font-size:12px;color:#647aa2;margin:0}.lro-benefit a{color:#1688ee}.lro-benefit+.addons-table-wrap{margin-top:16px}
+
+.malaysia-benefit{margin-top:12px}
