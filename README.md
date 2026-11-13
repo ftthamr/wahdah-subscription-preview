@@ -22,4 +22,4 @@ Serve this directory with a static server, for example `python3 -m http.server 8
 
 Browser-tested plan/add-on changes, included Malaysia benefit with no surcharge, additional driver quantity, monthly/full-term totals, sample application progression, payment acknowledgement, simulated confirmation, SUV filtering and mobile continuation. Mobile 390px checks showed no horizontal overflow.
 
-Optional child seat and Touch ’n Go card requests carry through the summary, approval and payment screens. Prices, availability, seat suitability and any TNG balance are to be confirmed. Selecting either makes the final payment amount quotation-dependent; no unconfirmed fee is assumed.
+Child seats: SGD 5 per day per unit, max 2. Monthly payment charges the first calendar billing month initially; full-term payment charges the full subscription day count. Month-end dates are clamped to the last day of the target month. Touch ’n Go and/or NETS Motoring Card top-up: SGD 50 one-time, max 1. Both are included in the cost summary and first-payment amount. Prices and limits provided by the product owner.
